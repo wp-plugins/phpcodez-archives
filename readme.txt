@@ -12,10 +12,11 @@ It can be used to list archives
 
 PHPCodez lists the archives. The output can be managed from the back end 
 
-Advatages
-======
+Features
+
 1) We can restrict the number of archives
-2) We can list the post count along with the category name .
+
+2) We can list the post count along with the archive name .
 
 == Installation ==
 
